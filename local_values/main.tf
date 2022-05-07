@@ -1,4 +1,4 @@
-provider "aws" {
+provider "awsasdasd" {
   region = "us-east-1"
   profile = "boto3r"
 }
